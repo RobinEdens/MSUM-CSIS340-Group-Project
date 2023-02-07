@@ -11,15 +11,15 @@ Stakeholders
 ----------------------------------------------------
 
 System Administrator
- - 
+ - #TODO#
  - 
 
 Shop Owner
- - 
+ - #TODO#
  - 
 
 Shop Customers
- - 	
+ - 	#TODO#
  - 
 
 Employees (Customer Service)
@@ -28,7 +28,7 @@ Employees (Customer Service)
  - Ability to check internal stock information, order more product from vendors 
  
 Vendors
- - 
+ - #TODO#
  - 
 
 Personas
