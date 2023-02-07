@@ -40,6 +40,7 @@ Jeremy is a customer service employee whose job is to process order-related issu
 User Stories
 ----------------------------------------------------
 User Story #1 (Jeremy, employee ), written by Robin 
+
 As an employee, I want to be able to search a customer via email address & phone number so I can pull up order information for customers who do not have an order number on hand. 
 
 Jeremy handles customer service and looks into issues occuring with an order. Sometimes, when a customer messages about a missing order or is requesting to cancel an order, they do not have the receipt or order information on hand. Jeremy would want some sort of method to look up an order via information that the customer would have entered during the checkout process.  
