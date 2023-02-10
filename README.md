@@ -37,9 +37,10 @@ Jeremy - Employee (Customer Service/Returns), written by Robin
 
 Jeremy is a customer service employee whose job is to process order-related issues such as returns or missing items. Jeremy is familiar with working a computer and using a search engine to look up results within the store's system. Jeremy is a newer hire, so he is not as familiar with other aspects of customer service as he is still in training. 
 
-Jeson - Employee (Tech-Savvy Student), written by Shukri 
-
-Jason is a college student who is comfortable using technology and likes to shop online for fashion and electronics. He values a seamless mobile shopping experience, and is likely to be influenced by peer recommendations and social media. He appreciates a platform that offers fast and reliable shipping, and is willing to wait for a better deal. He is also interested in eco-friendly and sustainable products, and may look for certifications or ratings before making a purchase.
+Jeson - Employee (Tech-Savvy Student), written by Shukri
+Jason is a college student who is comfortable using technology and likes to shop 
+online for fashion and electronics. He values a seamless mobile shopping experience, and is likely to be influenced by peer recommendations and social media. He appreciates a platform that offers fast and reliable shipping, and is willing to wait for a better deal. He is also interested in eco-friendly and sustainable 
+products, and may look for certifications or ratings before making a purchase.
 
 User Stories
 ----------------------------------------------------
