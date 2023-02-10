@@ -51,7 +51,7 @@ As an employee, I want to be able to search a customer via email address & phone
 
 Jeremy handles customer service and looks into issues occuring with an order. Sometimes, when a customer messages about a missing order or is requesting to cancel an order, they do not have the receipt or order information on hand. Jeremy would want some sort of method to look up an order via information that the customer would have entered during the checkout process.  
 
-User Story #2 (Joe, customer), written by Shukri 
+User Story #2 (Sarah, customer), written by Shukri 
 Sarah was checking out, she realized that she had made a mistake in her order. She was worried that she would have to start all over again, but Jeson reassured her that they could fix the problem quickly. They updated her order on the spot, and made sure that everything was just right. Sarah was so grateful for the employees' help, and left the store with a smile on her face.
 
 
