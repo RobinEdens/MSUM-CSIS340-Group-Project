@@ -13,15 +13,15 @@ Stakeholders
 ----------------------------------------------------
 
 System Administrator
- - 
+ - #TODO
  - 
 
 Shop Owner
- - 
+ - #TODO
  - 
 
 Shop Customers
- - 	
+ - 	#TODO
  - 
 
 Employees (Customer Service)
