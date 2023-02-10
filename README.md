@@ -9,8 +9,9 @@ The purpose of this application is to provide functionality for online shopping,
 
 Stakeholders and their Interests
 ----------------------------------------------------
-Employees (Remote workers) Written by Shukri 
+Employees (Remote workers)
 Our employees want a platform that is easy to use and allows them to manage orders and inventory efficiently. They also want to be able to access customer information and order history.
+
 System Administrator
  - #TODO#
  - 
@@ -39,9 +40,7 @@ Jeremy - Employee (Customer Service/Returns), written by Robin
 Jeremy is a customer service employee whose job is to process order-related issues such as returns or missing items. Jeremy is familiar with working a computer and using a search engine to look up results within the store's system. Jeremy is a newer hire, so he is not as familiar with other aspects of customer service as he is still in training. 
 
 Jeson - Employee (Tech-Savvy Student), written by Shukri
-Jason is a college student who is comfortable using technology and likes to shop 
-online for fashion and electronics. He values a seamless mobile shopping experience, and is likely to be influenced by peer recommendations and social media. He appreciates a platform that offers fast and reliable shipping, and is willing to wait for a better deal. He is also interested in eco-friendly and sustainable 
-products, and may look for certifications or ratings before making a purchase.
+Jason is a college student who is comfortable using technology and likes to shop online for fashion and electronics. He values a seamless mobile shopping experience, and is likely to be influenced by peer recommendations and social media. He appreciates a platform that offers fast and reliable shipping, and is willing to wait for a better deal. He is also interested in eco-friendly and sustainable products, and may look for certifications or ratings before making a purchase.
 
 User Stories
 ----------------------------------------------------
@@ -54,11 +53,13 @@ Jeremy handles customer service and looks into issues occuring with an order. So
 User Story #2 (Sarah, customer), written by Shukri 
 Sarah was checking out, she realized that she had made a mistake in her order. She was worried that she would have to start all over again, but Jeson reassured her that they could fix the problem quickly. They updated her order on the spot, and made sure that everything was just right. Sarah was so grateful for the employees' help, and left the store with a smile on her face.
 
-
-User Story #3
+User Story #3 (Andy, customer), written by Shukri
+Andy came to the store with a special request. She was planning a surprise birthday party for her friend and needed to purchase several items for the celebration. Andy was nervous about shopping online, but the store's friendly and knowledgeable employees put her at ease. They helped her find the perfect products, and even made suggestions for other items that would complement her selections.
 
 Use Case Diagrams
 ----------------------------------------------------
+![image](https://user-images.githubusercontent.com/122573491/218215009-23736350-ae6c-43a6-87c1-3655d8f8766b.png) Created by Shukri
+
 
 Requirements
 ----------------------------------------------------
