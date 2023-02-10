@@ -5,7 +5,9 @@ This application will allow customers to purchase items from an online shopping 
 Description
 ---------------------------------------------------
 
-The purpose of this application is to provide functionality for online shopping, providing a catalog of items and a checkout to the customer, and the ability to manage a store's inventory for the employees. Features such as #TODO# 
+The purpose of this application is to provide functionality for online shopping, providing a catalog of items and a checkout to the customer, and the ability to manage a store's inventory for the employees. Features such as item search, browsing by item type, ordering as a guest, returning an order, and canceling an order should be available. Additional features will be added such as allowing ordering of products from a vendor and processing customer returns as an employee, marking an inventory request as completed by a vendor, or resetting account passwords as an administrator. 
+
+This will be delivered as a web application using Java as the primary language. Inventory will be stored in either a SQL database or a JSON file on the server side. Logins will be available for customers, employees, vendors, and administrators through the same website. 
 
 Stakeholders
 ----------------------------------------------------
@@ -28,8 +30,8 @@ Employees (Customer Service)
  - Ability to check internal stock information, order more product from vendors 
  
 Vendors
- - 
- - 
+ - Need to be able to log into system to review requests for inventory
+ - Need to be able to mark an inventory order as complete, allow changes to sent inventory as needed
 
 Personas
 ----------------------------------------------------
@@ -55,10 +57,11 @@ Use Case Diagrams
 Requirements
 ----------------------------------------------------
 Functional
- - Customers must be able to add items to a cart, change quantity of items, and remove an item from the cart
- - Employees must be able to look up a customer's order via order number and customer information. 
- - 
+ 1. Customers must be able to add items to a cart, change quantity of items, and remove an item from the cart
+ 2. Employees must be able to look up a customer's order via order number and customer information. 
+ 3. Employees must be able to approve or deny returns for a customer. 
+ 4. Inventory needs to update when a customer orders or returns an item. 
 
 Non-Functional
- - Employees must have a different login than a normal customer, will have different experience than customer. 
- - 
+ 1. Employees must have a different login than a normal customer, will have different experience than customer. 
+ 2. Guests should be able to checkout without the need for a login
