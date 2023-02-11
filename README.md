@@ -45,7 +45,7 @@ Jason is newer hire a college student who is comfortable using technology and li
 
 Jesse - Customer, written by Diana
 
-Jason is an anime figure collector. He is very comfortable with computers and has been scouring the internet for the past few months trying to get his hands on all the previous figures he's missed out on. Now that his collection has caught up, he has been using the online shopping application to keep up with the new releases as they come out.
+Jesse is an anime figure collector. He is very comfortable with computers and has been scouring the internet for the past few months trying to get his hands on all the previous figures he's missed out on. Now that his collection has caught up, he has been using the online shopping application to keep up with the new releases as they come out.
 
 User Stories
 ----------------------------------------------------
