@@ -63,6 +63,7 @@ User Story #3 (Andy, customer), written by Shukri
 Andy was planning a surprise birthday party for her friend and needed to purchase several items for the celebration. Andy was nervous about shopping online, but the store's friendly and knowledgeable employees put her at ease. They helped her find the perfect products, and even made suggestions for other items that would complement her selections.
 
 User Story #4 (Francis, vendor), written by Robin
+
 Francis is an employee at one of the vendors that does business with the store. Due to harsh weather, some of the trucks for the wholesaler were delayed, causing this vendor to not have any DVD's of a new movie release to send to the store. While fufilling the order, Francis changes the amount of DVD's sent on this truck to zero, and the invoice sent to the store is adjusted to accomodate the missing stock. 
 
 User Story #5 (Jesse, customer), written by Diana
