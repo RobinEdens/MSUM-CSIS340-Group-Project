@@ -73,6 +73,7 @@ Jesse just saw on Twitter that his favorite anime was getting a new figure made 
 User Story #6 (Jesse, customer), written by Diana
 
 Jesse had previously preordered a figure from the website and has been eagerly awaiting its arrival. He repeatedly checks his order information to see if there are any updates to his order and is hoping to see that they have shipped it. He gets an email a few days before the item is set to release saying that the order has shipped. A week passes and the tracking information on his order hasn't been updated since it shipped. He calls customer service, and they tell him that it might have gotten lost and to fill out a lost in transit form on the website if he doesn't receive the item in a few days. A few days later he accepts that he won't receive his order and fills out the lost in transit form asking for a refund.
+
 Use Case Diagrams
 ----------------------------------------------------
 ![image](https://user-images.githubusercontent.com/122573491/218215009-23736350-ae6c-43a6-87c1-3655d8f8766b.png) Created by Shukri
