@@ -82,21 +82,21 @@ Use Case Diagrams
 Requirements
 ----------------------------------------------------
 Functional
- - Customers must be able to add items to a cart, change quantity of items, and remove an item from the cart
- - Customers must have the ability to check out without creating an account (e.g. guest checkout)
- - Employees must be able to look up a customer's order via order number and customer information. 
- - Employees must have the ability to place an order for items from a vendor
- - The system administrator must have the ability to add or remove an item from the store
- - A search function for customers to easily find specific products.
- - Vendors must have the ability to view inventory orders, change quantities, and mark orders as shipped. 
- - The inventory must properly adjust upon successful order completions, item must reflect out-of-stock status when inventory is zero
+ 1. Customers must be able to add items to a cart, change quantity of items, and remove an item from the cart
+ 2. Customers must have the ability to check out without creating an account (e.g. guest checkout)
+ 3. Employees must be able to look up a customer's order via order number and customer information. 
+ 4. Employees must have the ability to place an order for items from a vendor
+ 5. The system administrator must have the ability to add or remove an item from the store
+ 6. A search function for customers to easily find specific products.
+ 7. Vendors must have the ability to view inventory orders, change quantities, and mark orders as shipped. 
+ 8. The inventory must properly adjust upon successful order completions, item must reflect out-of-stock status when inventory is zero
  
 Non-Functional
- - Employees must have a different login than a normal customer, will have different experience than customer.
- -	Compatibility with a wide range of devices and browsers.
- -	Fast and responsive site performance, even during peak traffic times.
+ 1. Employees must have a different login than a normal customer, will have different experience than customer.
+ 2.	Compatibility with a wide range of devices and browsers.
+ 3. Fast and responsive site performance, even during peak traffic times.
 
 Non-Requirements:
- -	Physical store locations
- - In-person customer support
- - Cash-based payment options
+ 1.	Physical store locations
+ 2. In-person customer support
+ 3. Cash-based payment options
