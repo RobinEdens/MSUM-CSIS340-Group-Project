@@ -42,6 +42,10 @@ Jason is a college student who is comfortable using technology and likes to shop
 online for fashion and electronics. He values a seamless mobile shopping experience, and is likely to be influenced by peer recommendations and social media. He appreciates a platform that offers fast and reliable shipping, and is willing to wait for a better deal. He is also interested in eco-friendly and sustainable 
 products, and may look for certifications or ratings before making a purchase.
 
+Jesse - Customer, written by Diana
+
+Jason is an anime figure collector. He is very comfortable with computers and has been scouring the internet for the past few months trying to get his hands on all the previous figures he's missed out on. Now that his collection has caught up, he has been using the online shopping application to keep up with the new releases as they come out.
+
 User Stories
 ----------------------------------------------------
 User Story #1 (Jeremy, employee), written by Robin 
@@ -55,6 +59,14 @@ User Story #2 (Sarah, customer), written by Shukri
 Sarah was checking out, she realized that she had made a mistake in her order. She was worried that she would have to start all over again, but Jeson reassured her that they could fix the problem quickly. They updated her order on the spot, and made sure that everything was just right. Sarah was so grateful for the employees' help, and left the store with a smile on her face.
 
 User Story #3
+
+User Story #5 (Jesse, customer), written by Diana
+
+Jesse just saw on Twitter that his favorite anime was getting a new figure made and would be set to release in half a year. He checks his usual online store to check if they have preorders available and sees that they do. He preorders the item with minimal effort as he has previously used the site and it has his information stored. He completes the transaction confident that he will receive his order when it is set to release.
+
+User Story #6 (Jesse, customer), written by Diana
+
+Jesse had previously preordered a figure from the website and has been eagerly awaiting its arrival. He repeatedly checks his order information to see if there are any updates to his order and is hoping to see that they have shipped it. He gets an email a few days before the item is set to release saying that the order has shipped. A week passes and the tracking information on his order hasn't been updated since it shipped. He calls customer service, and they tell him that it might have gotten lost and to fill out a lost in transit form on the website if he doesn't receive the item in a few days. A few days later he accepts that he won't receive his order and fills out the lost in transit form asking for a refund.
 
 Use Case Diagrams
 ----------------------------------------------------
