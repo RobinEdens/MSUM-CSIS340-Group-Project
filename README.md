@@ -42,8 +42,10 @@ User Story #2 (Sarah, customer), written by Shukri Sarah was checking out, she r
 
 User Story #3 (Andy, customer), written by Shukri Andy came to the store with a special request. She was planning a surprise birthday party for her friend and needed to purchase several items for the celebration. Andy was nervous about shopping online, but the store's friendly and knowledgeable employees put her at ease. They helped her find the perfect products, and even made suggestions for other items that would complement her selections.
 
-Use Case Diagrams
-image Created by Shukri
+Use Case Diagrams Created by Shukri
+
+ 
+
 
 Requirements
 Functional
@@ -51,13 +53,14 @@ Functional
 Customers must be able to add items to a cart, change quantity of items, and remove an item from the cart
 Employees must be able to look up a customer's order via order number and customer information.
 A search function for customers to easily find specific products.
-Non-Functional
+Non-Functional:
 
-Employees must have a different login than a normal customer, will have different experience than customer.
-Compatibility with a wide range of devices and browsers.
-Fast and responsive site performance, even during peak traffic times.
+
+-Employees must have a different login than a normal customer, will have different experience than customer.
+-Compatibility with a wide range of devices and browsers.
+-Fast and responsive site performance, even during peak traffic times.
 Non-Requirements:
+-Physical store locations
+-In-person customer support
+-Cash-based payment options
 
-Physical store locations
-In-person customer support
-Cash-based payment options
