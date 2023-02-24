@@ -100,3 +100,10 @@ Non-Requirements:
  1.	Physical store locations
  2. In-person customer support
  3. Cash-based payment options
+
+Diagrams
+----------------------------------------------------
+Relational Database Diagram, designed by Robin:
+
+This diagram shows an overview of the setup of the SQL database used for placing orders and updating inventory and how different tables are linked to one another.
+![image](https://user-images.githubusercontent.com/21182688/221299451-566a5254-1a29-4a4f-aea8-08c89856a3f0.png)
