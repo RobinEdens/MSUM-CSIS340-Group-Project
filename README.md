@@ -107,3 +107,12 @@ Relational Database Diagram, designed by Robin:
 
 This diagram shows an overview of the setup of the SQL database used for placing orders and updating inventory and how different tables are linked to one another.
 ![image](https://user-images.githubusercontent.com/21182688/221299451-566a5254-1a29-4a4f-aea8-08c89856a3f0.png)
+
+Relational Database Diagram, designed by Shukri:
+
+This sequence diagram shows the steps involved when a customer logs in and retrieves their account information. The application communicates with the database
+to retrieve both item information and user information, and then display them to the customer.
+
+![image](https://user-images.githubusercontent.com/122573491/221323611-2cd3d291-faa6-4165-bc87-12e9fac8fb51.png)
+
+
