@@ -115,4 +115,11 @@ to retrieve both item information and user information, and then display them to
 
 ![image](https://user-images.githubusercontent.com/122573491/221323611-2cd3d291-faa6-4165-bc87-12e9fac8fb51.png)
 
+Flowchart diagram, designed by Diana
+
+This flowchart diagram shows the basic flow of a customer's online ordering experience, from the point of searching for an item to the end when the order is placed. 
+
+![image](https://user-images.githubusercontent.com/21182688/221329269-e990ce77-8223-44a5-8094-e38fdb3c796b.png)
+
+
 
