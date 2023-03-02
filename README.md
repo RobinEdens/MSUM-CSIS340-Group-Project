@@ -119,4 +119,4 @@ Sequence diagram, designed by Shukri:
 This sequence diagram shows the steps involved when a customer logs in and retrieves their account information. The application communicates with the database
 to retrieve both item information and user information, and then display them to the customer.
 
-![image](https://user-images.githubusercontent.com/122573491/221323611-2cd3d291-faa6-4165-bc87-12e9fac8fb51.png)
+![image](https://user-images.githubusercontent.com/122573491/222320015-178b1c4b-2717-4022-a23d-bde2518b573d.png)
