@@ -10,8 +10,8 @@ Pre-Requisites
 Building the Solution
 ---------------------------------------------------
 - Open IntelliJ Ultimate and go to File -> Open and open the cloned project folder
-- To build and run the project for testing purposes, go to Run -> Run 'OnlineShoppingApp340Application' 
-- To build the project go to Build -> Build Project or press Ctrl-F9
+- To build and run the project for testing purposes, go to Run -> Run 'OnlineShoppingApp340Application' or press Shift-F10
+- To build the project without running, go to Build -> Build Project or press Ctrl-F9
 
 Running the Solution
 ---------------------------------------------------
