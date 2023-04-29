@@ -5,6 +5,13 @@ import java.util.ArrayList;
 
 public class Inventory {
 
+    private ArrayList <Item> items;
+
+    public Inventory ()
+    {
+        this.items = GetInventory();
+    }
+
     private Connection connect() {
         String db = "jdbc:sqlite:dependencies/sqlite-tools/OnlineShopping.db";
         Connection conn = null;
@@ -17,19 +24,18 @@ public class Inventory {
         return conn;
     }
 
-    private void AddToInventory(int ID, int vendorID, String name, int wholesaleCost, int retailCost, int stock)
+    public void AddToInventory(int vendorID, String name, int wholesaleCost, int retailCost, int stock)
     {
-        String sql = "INSERT INTO item (id, vendor_id, name, wholesale_cost, retail_cost, count) VALUES(?,?,?,?,?,?)";
+        String sql = "INSERT INTO item (vendor_id, name, wholesale_cost, retail_cost, count) VALUES(?,?,?,?,?)";
 
         try (Connection conn = this.connect())
         {
             PreparedStatement stmt = conn.prepareStatement(sql);
-            stmt.setInt(1, ID);
-            stmt.setInt(2, vendorID);
-            stmt.setString(3, name);
-            stmt.setInt(4, wholesaleCost);
-            stmt.setInt(5, retailCost);
-            stmt.setInt(6, stock);
+            stmt.setInt(1, vendorID);
+            stmt.setString(2, name);
+            stmt.setInt(3, wholesaleCost);
+            stmt.setInt(4, retailCost);
+            stmt.setInt(5, stock);
 
             stmt.executeUpdate();
         } catch (SQLException e)
@@ -38,7 +44,7 @@ public class Inventory {
         }
     }
 
-    private void RemoveFromInventory(int id)
+    public void RemoveFromInventory(int id)
     {
         String sql = "DELETE FROM item WHERE id = ?";
 
@@ -70,7 +76,7 @@ public class Inventory {
         return null;
     }
 
-    private ArrayList <Item> GetInventory ()
+    public ArrayList <Item> GetInventory ()
     {
         try {
             ResultSet inventoryQuery = this.QueryAll();

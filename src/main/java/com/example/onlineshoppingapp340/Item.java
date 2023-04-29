@@ -1,7 +1,6 @@
 package com.example.onlineshoppingapp340;
 
 public class Item {
-
     private int ID;
     private int vendorID;
     private String name;
@@ -46,6 +45,30 @@ public class Item {
 
     public int getStock() {
         return stock;
+    }
+
+    public void setID(int ID) {
+        this.ID = ID;
+    }
+
+    public void setVendorID(int vendorID) {
+        this.vendorID = vendorID;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setWholesaleCost(int wholesaleCost) {
+        this.wholesaleCost = wholesaleCost;
+    }
+
+    public void setRetailCost(int retailCost) {
+        this.retailCost = retailCost;
+    }
+
+    public void setStock(int stock) {
+        this.stock = stock;
     }
 
     @Override
